@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fastify": "^4.10.2",
+    "mongosh": "^1.6.1",
+    "node": "^19.3.0",
+    "node-fetch": "^3.3.0"
+  }
+}
